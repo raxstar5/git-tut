@@ -16,4 +16,5 @@ function what(){
 
 function homie(){
     console.log("Homie");
+    console.log("Another one");
 }
