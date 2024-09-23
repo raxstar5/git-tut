@@ -18,3 +18,7 @@ function homie(){
     console.log("Homie");
     console.log("Another one");
 }
+
+function featB(){
+    console.log("Feat B");
+}
