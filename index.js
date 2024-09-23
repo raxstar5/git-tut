@@ -10,3 +10,7 @@ function newFn(){
     console.log("Im a new function")
 }
 
+function what(){
+    console.log("What");
+}
+
