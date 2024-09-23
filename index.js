@@ -5,3 +5,7 @@ const db = '01/21/1212'
 function sayName(){
     console.log('My name is ' + name)
 }
+
+function isAbove(){
+    return age >= 18
+}
