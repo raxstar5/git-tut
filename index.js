@@ -14,3 +14,6 @@ function what(){
     console.log("What");
 }
 
+function homie(){
+    console.log("Homie");
+}
